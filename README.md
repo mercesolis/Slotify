@@ -1,1 +1,2 @@
 # Slotify
+A Spotify clone!
